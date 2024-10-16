@@ -1,3 +1,3 @@
 # Dart
-Exercises of dart
+dart_examples
       - JF
